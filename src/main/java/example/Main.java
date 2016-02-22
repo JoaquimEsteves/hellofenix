@@ -7,6 +7,7 @@ import pt.ist.fenixframework.FenixFramework;
 public class Main {
 
     // FenixFramework will try automatic initialization when first accessed
+	//AYYYYYYLMAO
     public static void main(String [] args) {
             addNewPeople(args);
             greetAll();
